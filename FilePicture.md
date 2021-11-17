@@ -25,6 +25,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
+<a href="https://gitlocalize-staging.herokuapp.com/repo/1896/de?utm_source=badge"> <img src="https://gitlocalize-staging.herokuapp.com/repo/1896/de/badge.svg" /> </a>
+
 # true
 
   - Import a HTML file and watch it magically convert to Markdown
